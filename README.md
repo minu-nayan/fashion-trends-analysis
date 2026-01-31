@@ -68,6 +68,8 @@ GROUP BY discount_flag;
 - ~75–85% of revenue is discount-driven, but discount dependency has declined over time.
 - Discounted items show ~5% lower revenue per unit.
 
+![Q2](https://github.com/minu-nayan/fashion-trends-analysis/blob/main/FashionSalesQ2.png)
+
 ### **Q3. Inventory Risk: Weak Demand Signals - Which products or categories consistently underperform in terms of sell-through and tie up inventory capital?**
 
 Approach
@@ -90,6 +92,8 @@ FROM sales;
 - Bottom-quartile products exhibit weak demand signals across volume and stockout frequency.
 - Inventory should be reallocated toward high-velocity SKUs.
 
+![Q3](https://github.com/minu-nayan/fashion-trends-analysis/blob/main/FashionSalesQ3.png)
+
 ### **Q4. Seasonality & Demand Volatility - How strong is seasonality in our sales, and which categories are most exposed to seasonal risk?**
 
 Approach
@@ -108,6 +112,8 @@ GROUP BY category, month;
 **Seasonality**
 - Blouses and Jackets show high month-to-month volatility.
 - Shirts and Skirts exhibit stable demand suitable for baseline inventory.
+
+![Q4](https://github.com/minu-nayan/fashion-trends-analysis/blob/main/FashionSalesQ4.png)
 
 ### **Q5. Pricing & Assortment Optimization - Where should pricing or assortment decisions be adjusted to improve revenue without increasing volume?**
 
@@ -129,6 +135,8 @@ GROUP BY category, price_band;
 **Pricing & Assortment**
 - Higher relative price tiers generate disproportionate revenue in select categories.
 - Premiumization offers revenue uplift without volume growth.
+
+![Q4](https://github.com/minu-nayan/fashion-trends-analysis/blob/main/FashionSalesQ5.png)
 
 ## 🔗 Connect With Me
 
