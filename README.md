@@ -45,7 +45,7 @@ FROM yearly_revenue;
 - Shirts and Jackets show strong multi-year growth and positive revenue contribution.
 - Skirts and Shoes exhibit structural decline post-peak.
 
-![Q1](https://github.com/minu-nayan/QoQ-Sales-and-Performance-Analysis/blob/main/Sales%20Analytics%20SS%201.png)
+![Q1](https://github.com/minu-nayan/fashion-trends-analysis/blob/main/FashionSalesQ1.2.png)
 
 ### **Q2. Discount Dependency & Revenue Efficiency - What proportion of sales comes from discounted items, and how does discounting impact overall revenue efficiency?**
 
